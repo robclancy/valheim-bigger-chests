@@ -1,6 +1,10 @@
 # Valheim Bigger Chests
 
-#### Bigger chests, ship storage and carts to help with the tedious chest spam. New sizes are to help with feeling a little more freedom while hoarding while not being overpowered and staying within the spirit of the game.
+Bigger chests, ship storage and carts to help with the tedious chest spam. New sizes are to help with feeling a little more freedom while hoarding while not being overpowered and staying within the spirit of the game.
+
+------------------------------
+
+## Changes
 
 **Normal Chest**: 5x3 (from 5x2). 1 Extra row added. This chest feels way too small when it is the main one you use over and over again, but don't want to make the upgrade pointless so it is still relatively small.
 
@@ -12,3 +16,13 @@
 
 **Karve**: 3x3. The original 2x2 is super small and 3x3 doesn't really help that much but feels less restricting.
 
+------------------------------
+
+## Installation
+
+Working with https://valheim.thunderstore.io/package/ebkr/r2modman/. Assumed working with Nexus Mod Manager.
+
+#### Manual
+
+- Extract the archive into into <GameDirectory>\Bepinex\plugins.
+= Profit
