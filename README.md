@@ -30,4 +30,4 @@ Working with https://valheim.thunderstore.io/package/ebkr/r2modman/. Assumed wor
 #### Manual
 
 - Extract the archive into into <GameDirectory>\Bepinex\plugins.
-= Profit
+- Profit
