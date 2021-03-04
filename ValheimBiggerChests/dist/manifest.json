@@ -1,0 +1,9 @@
+{
+    "name": "Bigger_Chests",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/robclancy/valheim-bigger-chests",
+    "description": "Bigger chests, ship storage and carts to help with the tedious chest spam. New sizes are to help with feeling a little more freedom while hoarding while not being overpowered and staying within the spirit of the game.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.701"
+    ]
+}
