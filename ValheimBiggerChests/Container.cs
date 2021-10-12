@@ -57,7 +57,15 @@ namespace ValheimBiggerChests
                 return;
             }
 
-            if (instance.name.StartsWith("piece_chest"))
+             if (instance.name.StartsWith("piece_chest_blackmetal"))
+            {
+                // no changes here because it is basically maxed out, not going to have it use a scrollbar,
+                // just leaving the statement so it is known that this chest exists
+
+                return;
+            }
+
+            if (instance.name.StartsWith("piece_chest("))
             {
                 instance.m_width = 7;
                 instance.m_height = 4;
