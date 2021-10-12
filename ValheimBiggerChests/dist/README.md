@@ -16,7 +16,7 @@ Bigger chests, ship storage and carts to help with the tedious chest spam. New s
 
 #### Black Metal Chest
 8x4. Default size. I would increase it slightly however this is basically the max size we can use, I don't want to have it use scrollbars, that sounds terrible.  
-_Unfortunely this new chest added in the __Hearth & Home__ update makes the reinforced chest OP, but I can't reduce sizes as it would delete peoples items_
+_Unfortunately this new chest added in the __Hearth & Home__ update makes the reinforced chest OP, but I can't reduce sizes as it would delete peoples items._
 
 #### Personal Chest
 5x2. 2 extra columns. The original 3x2 made this chest almost useless and very expensive for what I assume is the main use case, holding your loadout beside your bed. I updated it to be able to hold at least a full loadout. 
